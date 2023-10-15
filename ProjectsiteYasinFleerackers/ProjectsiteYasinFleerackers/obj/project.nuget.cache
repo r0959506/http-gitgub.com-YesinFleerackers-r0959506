@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eMlaJDKQP7pkZEtq+JgLAxrBRNoAqu5sxbDv3CwEvG0Wv3TUdU4F2IOGKIUEg53al8WpTFNL3OESWBm9yXymxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SC\\source\\repos\\ProjectsiteYasinFleerackers\\ProjectsiteYasinFleerackers\\ProjectsiteYasinFleerackers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SC\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\6.0.21\\microsoft.aspnetcore.spaproxy.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
